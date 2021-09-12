@@ -648,7 +648,7 @@ header .icons #manu-bars {
   }
 
   header {
-    padding: 1rem 2rem;
+    padding: 3rem 2rem;
   }
 }
 
@@ -677,7 +677,7 @@ header .icons #manu-bars {
     display: block;
     padding: 1.5rem;
     margin: 1rem;
-    font-size: 2rem;
+    font-size: 3rem;
     background: rgba(255, 193, 7, 0.22);
   }
   #search-form #search-box {
