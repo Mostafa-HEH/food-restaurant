@@ -7,13 +7,6 @@
   --box-shadow: 0 0 0.5rem 0 rgba(0, 0, 0, 0.231);
 }
 
-/* #FCB300 */
-/* #FCD402 */
-/* #FFE85C */
-/* #252B3B */
-/* #1A1D26 */
-/* #EBEFF3 */
-
 * {
   font-family: "Nunito", sans-serif;
   margin: 0;
@@ -194,10 +187,6 @@ header .icons #manu-bars {
   font-size: 5rem;
 }
 
-.home {
-  /* background-color: rgb(247, 251, 255); */
-}
-
 .home .home-slider {
   padding: 2rem;
 }
@@ -267,7 +256,6 @@ header .icons #manu-bars {
 .dishes .box-container .box .fa-eye {
   position: absolute;
   top: 1.5rem;
-  /* background: #eee; */
   border-radius: 50%;
   height: 5rem;
   width: 5rem;
@@ -279,7 +267,6 @@ header .icons #manu-bars {
 .dishes .box-container .box .fa-heart:hover,
 .dishes .box-container .box .fa-cart-plus:hover,
 .dishes .box-container .box .fa-eye:hover {
-  /* background: var(--green); */
   color: var(--green);
 }
 
@@ -294,22 +281,6 @@ header .icons #manu-bars {
 .dishes .box-container .box .fa-eye {
   left: 1.5rem;
 }
-
-/* .dishes .box-container .box .fa-heart {
-  right: -15rem;
-}
-
-.dishes .box-container .box .fa-eye {
-  left: -15rem;
-} */
-
-/* .dishes .box-container .box:hover .fa-heart {
-  right: 1.5rem;
-}
-
-.dishes .box-container .box:hover .fa-eye {
-  left: 1.5rem;
-} */
 
 .dishes .box-container .box img {
   height: 17rem;
@@ -507,8 +478,6 @@ header .icons #manu-bars {
 
 .review .slide {
   padding: 2rem;
-  /* box-shadow: var(--box-shadow); */
-  /* border: 0.1rem solid rgba(0, 0, 0, 0.2); */
   border-radius: 0.5rem;
   position: relative;
   background-color: #ebeff354;
